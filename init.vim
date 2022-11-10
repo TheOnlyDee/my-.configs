@@ -7,6 +7,8 @@
 :set softtabstop=4
 :set mouse=a
 
+"You need to install vim-plug (https://github.com/junegunn/vim-plug) to install these plugins 
+
 call plug#begin()
 
 Plug 'http://github.com/tpope/vim-surround' " Surrounding ysw)
