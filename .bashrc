@@ -102,7 +102,7 @@ if [ -x /usr/bin/dircolors ]; then
 	alias ytd="yt-dlp  -i" # Download video link
 	alias ytda="yt -x -f bestaudio/best" # Download only audio
 	alias yt="ytfzf"
-  alias lofi='gnome-terminal -- distrobox enter arch -- streamlink -p ffplay https://www.youtube.com/watch?v=jfKfPfyJRdk worst'
+  alias lofi='st -- distrobox enter arch -- streamlink -p ffplay https://www.youtube.com/watch?v=jfKfPfyJRdk worst'
 fi
 
 # colored GCC warnings and errors
