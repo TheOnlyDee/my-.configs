@@ -1,4 +1,5 @@
-# Luke's config for the Zoomer Shell
+# Luke Smith config for ZShell
+# with added aliases by TheOnlyDee
 
 # Enable colors and change prompt:
 autoload -U colors && colors
