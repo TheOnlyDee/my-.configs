@@ -4,4 +4,4 @@ I don't recommend you to copy this files because I'm just a beginner and my conf
 
 Good Linux and IT journey!
 
-![./wallpapers/hacking-nsa-lol.jpg]
+
